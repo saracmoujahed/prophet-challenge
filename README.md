@@ -49,3 +49,6 @@ Develop a predictive model using the Prophet library to forecast future trends:
 ## Conclusion
 This project aims to demonstrate how analyzing and forecasting search traffic can yield strategic insights for Mercado Libre, from better understanding user behavior to potentially leveraging stock market opportunities.
 
+## Acknowledgments
+
+This project was developed with the assistance of ChatGPT, an AI language model created by OpenAI. The model helped in generating ideas, code snippets, and documentation to enhance the overall development process.
